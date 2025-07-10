@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn MCP",
+      "completed": false,
+      "date": "2025-07-10",
+      "categories": [
+        "MCP",
+        "Learning"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Read Data Science Book",
+      "completed": true,
+      "date": "2025-07-09",
+      "categories": [
+        "Learning",
+        "Data Science"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Meeting with client",
+      "completed": true,
+      "date": "2025-07-09",
+      "categories": [
+        "Meeting"
+      ]
+    },
+    {
+      "id": "0B511C5A",
+      "title": "Meeting with freelance client: discussed project overview",
+      "categories": [
+        "Default"
+      ],
+      "completed": false,
+      "date": "2025-07-09"
+    }
+  ]
+}
